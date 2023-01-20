@@ -131,17 +131,5 @@ public class TechJobs {
         } else {
             System.out.print("No Results");
         }
-
-//        if(someJobs.isEmpty()) {
-//            System.out.println("No Results");
-//        } else {
-//            for(HashMap<String, String> job : someJobs) {
-//                System.out.println("\n*****");
-//                for(Map.Entry<String, String> j : job.entrySet()) {
-//                    System.out.println(j.getKey() + ": " + j.getValue());
-//                }
-//                System.out.println("*****");
-//            }
-//        }
     }
 }
